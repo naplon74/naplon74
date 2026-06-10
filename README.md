@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there!
+Hey, I'm Naplon, I love hardware which is why I enjoy developing low-level software and utilities that interact directly with system hardware!
+I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
 
-<!--
-**naplon74/naplon74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-555555?logo=gnometerminal&style=for-the-badge&logoColor=white)
+
+</div>
