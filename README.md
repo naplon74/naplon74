@@ -10,7 +10,10 @@ I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-555555?logo=gnometerminal&style=for-the-badge&logoColor=white)
+![Microsoft Batch](https://img.shields.io/badge/Microsoft_Batch-555555?logo=gnometerminal&style=for-the-badge&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-007acc?style=for-the-badge)
+
 
 ## Learning
 
