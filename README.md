@@ -1,4 +1,4 @@
-## Hi there!
+## naplon@fedora:~$ whoami
 Hey, I'm Naplon, I love hardware which is why I enjoy developing low-level software and utilities that interact directly with system hardware!
 I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
 
