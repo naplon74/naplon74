@@ -2,23 +2,34 @@
 Hey, I'm Naplon, I love hardware which is why I enjoy developing low-level software and utilities that interact directly with system hardware!
 I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
 
+
+
+## About me
+  
+Some years ago I was really loving messing around with Windows, thanks to that I have good knowledge of how the OS work, the structure, the services, how to correctly debloat it, Batch script, the PowerShell and wtv else Windows can do. I've been wanting to switch to Linux for a long time, mostly because Windows 11 dissapointed me. I tried a lot of distro's but because I have an Nvidia GPU nothing really worked correctly, until I tried Fedora (my beloved) and boom everything worked out of the box!
+So I have 2 disks, one has Fedora installed; it's my main system: Study, Video, Small games, Codding. And another disk with Windows 11 IoT (It's like Windows 10 LTSC) for my games and some code (Batch). Now that I mostly use Linux, I'm actively learning the terminal as well as Bash.
+
+So what can I do?
+- Front end website (yeah I'm learning the backend part with JavaScript)
+- Python script
+- Anything that uses JSON, YMAL or whatever you want...
+- Some light Bash script
+- Batch & Poweshell as previously stated
+
+I also own a Raspberry Pi 3 B+; it's kinda useless now, but I used it as hosting for my Discord bot. I also own ESP32 boards; I did some projects at schools that involved soldering, thinking, sketching, and coding with Arduino (C++ basically).
+
+## Pinned projects
+**Those are my favorite projects, `Brave Linux bloat` is a simple script that, as the name implies, deploys Brave on Linux with a simple `.json` file. `BatchToolbox` is a large library of all the knowledge I accumulated over the year about Batch scripting. And last `Clean Me` is my first GTK4 Gnome app, it's simple it just lock your keyboard input so you can clean it without turning off your pcc! (yes I'm a lazy guy)** it without turning off your pcc! (yes I'm a lazy guy)**
+
 <div align="center">
 
-## Tech Stack
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Microsoft Batch](https://img.shields.io/badge/Microsoft_Batch-555555?logo=gnometerminal&style=for-the-badge&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Inno Setup](https://img.shields.io/badge/Inno_Setup-007acc?style=for-the-badge)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2Fbrave-linux-debloat&description_lines_count=1&theme=github_dark)](https://github.com/naplon74/brave-linux-debloat) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2Fbatch-toolBox&description_lines_count=1&theme=github_dark)](https://github.com/naplon74/batch-toolBox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2FCleanMe&theme=github_dark)](https://github.com/naplon74/CleanMe)
 
+<br>
 
-## Learning
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+**Visit my [website](https://naplon.xyz) to learn even more about me and my future projects!**
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=naplon74&layout=compact&theme=dark)
 
