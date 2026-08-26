@@ -6,7 +6,7 @@ I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
 
 ## About me
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naplon74&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=naplon74&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=10&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=10&theme=transparent) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
   
 Some years ago I was really loving messing around with Windows, thanks to that I have good knowledge of how the OS work, the structure, the services, how to correctly debloat it, Batch script, the PowerShell and wtv else Windows can do. I've been wanting to switch to Linux for a long time, mostly because Windows 11 dissapointed me. I tried a lot of distro's but because I have an Nvidia GPU nothing really worked correctly, until I tried Fedora (my beloved) and boom everything worked out of the box!
 So I have 2 disks, one has Void Linux installed; it's my main system: Study, Video, Small games, Codding. And another disk with Windows 11 IoT (It's like Windows 10 LTSC) for my games and some code (Batch). Now that I mostly use Linux, I'm actively learning the terminal as well as Bash.
@@ -25,14 +25,9 @@ I also own a Raspberry Pi 3 B+; it's kinda useless now, but I used it as hosting
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2Fbrave-linux-debloat&description_lines_count=1&theme=github_dark)](https://github.com/naplon74/brave-linux-debloat) 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2Fbatch-toolBox&description_lines_count=1&theme=github_dark)](https://github.com/naplon74/batch-toolBox)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=naplon74&repo=naplon74%2FCleanMe&theme=github_dark)](https://github.com/naplon74/CleanMe)
-
 <br>
 
 **Visit my [website](https://naplon.xyz) to learn even more about me and my future projects!**
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=naplon74&layout=compact&theme=dark)
 
 </div>
