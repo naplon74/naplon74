@@ -1,31 +1,97 @@
-## naplon@void:~$ whoami
-Hey, I'm Naplon, I love hardware which is why I enjoy developing low-level software and utilities that interact directly with system hardware!
-I mainly work on Windows OS and Raspberry Pi, ESP32 & Arduino board!
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=460&lines=~%2Fnaplon+%24+whoami_;hardware+%C2%B7+low-level+%C2%B7+linux" alt="Typing SVG">
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-naplon74-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naplon74)
+[![Website](https://img.shields.io/badge/Website-naplon.xyz-1f2937?style=for-the-badge&logo=brave&logoColor=white)](https://naplon.xyz)
+[![Discord](https://img.shields.io/badge/Discord-naplon-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/828866578614452236)
+
+[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+</div>
+
+<br>
 
 
+Uni student into **hardware** and **low-level software**. I build utilities
+and tools that talk directly to the system underneath them.
 
-## About me
+```
+Location ...................... France, Savoy
+Focus ......................... hardware · low-level · linux
+Status ........................ available
+```
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=4&theme=transparent) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
-  
-Some years ago I was really loving messing around with Windows, thanks to that I have good knowledge of how the OS work, the structure, the services, how to correctly debloat it, Batch script, the PowerShell and wtv else Windows can do. I've been wanting to switch to Linux for a long time, mostly because Windows 11 dissapointed me. I tried a lot of distro's but because I have an Nvidia GPU nothing really worked correctly, until I tried Fedora (my beloved) and boom everything worked out of the box!
-So I have 2 disks, one has Void Linux installed; it's my main system: Study, Video, Small games, Codding. And another disk with Windows 11 IoT (It's like Windows 10 LTSC) for my games and some code (Batch). Now that I mostly use Linux, I'm actively learning the terminal as well as Bash.
+<br>
 
-So what can I do?
-- Front end website (yeah I'm learning the backend part with JavaScript)
-- Python script
-- Anything that uses JSON, YMAL or whatever you want...
-- Some light Bash script
-- Batch & Poweshell as previously stated
+<div align="center">
 
-I also own a Raspberry Pi 3 B+; it's kinda useless now, but I used it as hosting for my Discord bot. I also own ESP32 boards; I did some projects at schools that involved soldering, thinking, sketching, and coding with Arduino (C++ basically).
+## ./language
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,py,c,html,css,js,md" alt="Stack icons" />
+  </a>
+</p>
+
+## ./frontend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron,gtk" alt="Stack icons" />
+  </a>
+</p>
+
+## ./backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,nodejs,discordjs" alt="Stack icons" />
+  </a>
+</p>
+
+## ./tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,sublime,vscode,raspberrypi,linux,windows" alt="Stack icons" />
+  </a>
+</p>
+
+</div>
+
+<br>
+
+```
+Laptop: Lenovo LOQ ........... Windows 11 IoT, Fedora, Void Linux
+
+Raspberry Pi 3 B+ ............ pi-hole ad block
+ESP32 ........................ school projects - soldering, sketching, C
+```
+
+<br>
+
+## ./stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="165">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=4&theme=transparent" alt="Top Languages" height="165">
+
+</div>
+
+<br>
+
+---
 
 
 <div align="center">
 
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=naplon74&color=6EE7B7&style=flat-square&label=views)
 
-**Visit my [website](https://naplon.xyz) to learn even more about me and my future projects!**
-
+© 2026 naplon_
 
 </div>
