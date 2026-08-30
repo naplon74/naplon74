@@ -20,8 +20,6 @@ So what can I do?
 
 I also own a Raspberry Pi 3 B+; it's kinda useless now, but I used it as hosting for my Discord bot. I also own ESP32 boards; I did some projects at schools that involved soldering, thinking, sketching, and coding with Arduino (C++ basically).
 
-## Pinned projects
-**Those are my favorite projects, `Brave Linux bloat` is a simple script that, as the name implies, debloats Brave on Linux with a simple `.json` file. `BatchToolbox` is a large library of all the knowledge I accumulated over the year about Batch scripting. And last `Clean Me` is my first GTK4 Gnome app, it's simple it just lock your keyboard input so you can clean it without turning off your pcc! (yes I'm a lazy guy)** it without turning off your pc! (yes I'm a lazy guy)**
 
 <div align="center">
 
