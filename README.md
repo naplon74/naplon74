@@ -48,7 +48,7 @@ Status ........................ available
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,nodejs,discordjs" alt="Stack icons" />
+    <img src="https://skillicons.dev/icons?i=arduino,nodejs,discordjs,cloudflare" alt="Stack icons" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@ Status ........................ available
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,sublime,vscode,raspberrypi,linux,windows" alt="Stack icons" />
+    <img src="https://skillicons.dev/icons?i=github,git,sublime,vscode,androidstudio,raspberrypi,linux,windows,discord,bots" alt="Stack icons" />
   </a>
 </p>
 
