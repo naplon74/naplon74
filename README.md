@@ -77,9 +77,9 @@ ESP32 ........................ school projects - soldering, sketching, C
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="165"> 
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=4&theme=transparent" alt="Language Stats height="165">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=donut&langs_count=4&theme=transparent" alt="Top Languages" height="165">
 
 </div>
 
