@@ -1,97 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=460&lines=~%2Fnaplon+%24+whoami_;hardware+%C2%B7+low-level+%C2%B7+linux" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=460&lines=~%2Fnaplon+%24+whoami_;hardware+%C2%B7+networks+%C2%B7+linux" alt="Typing SVG">
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-naplon74-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naplon74)
 [![Website](https://img.shields.io/badge/Website-naplon.xyz-1f2937?style=for-the-badge&logo=brave&logoColor=white)](https://naplon.xyz)
 [![Discord](https://img.shields.io/badge/Discord-naplon-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/828866578614452236)
 
-[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
 </div>
 
 <br>
 
+Network & Cybersecurity student (BUT R&T, IUT d'Annecy) into **hardware**, **networks**
+and **Linux**. I build utilities and tools that talk directly to the
+system underneath them.
 
-Uni student into **hardware** and **low-level software**. I build utilities
-and tools that talk directly to the system underneath them.
+- 📍 France, Savoy
+- 🛠️ Bash - Batch - PowerShell - Python - HTML - CSS - JS
+- 💻 Fedora Linux, Void Linux, Windows 11
+- 🥧 Raspberry Pi home server
 
-```
-Location ...................... France, Savoy
-Focus ......................... hardware · low-level · linux
-Status ........................ available
-```
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=6&theme=dark_github)
 
-<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=naplon74&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=naplon74&show_icons=true&include_all_commits=true&theme=dark_github)
 
-<div align="center">
-
-## ./language
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,py,c,html,css,js,md" alt="Stack icons" />
-  </a>
-</p>
-
-## ./frontend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,gtk" alt="Stack icons" />
-  </a>
-</p>
-
-## ./backend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,nodejs,discordjs,cloudflare" alt="Stack icons" />
-  </a>
-</p>
-
-## ./tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,sublime,vscode,androidstudio,raspberrypi,linux,windows,discord,bots" alt="Stack icons" />
-  </a>
-</p>
-
-</div>
-
-<br>
-
-```
-Laptop: Lenovo LOQ ........... Windows 11 IoT, Fedora, Void Linux
-
-Raspberry Pi 3 B+ ............ pi-hole ad block
-ESP32 ........................ school projects - soldering, sketching, C
-```
-
-<br>
-
-## ./stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=naplon74&custom_title=Naplon%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub Stats" height="165"> 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=4&theme=transparent" alt="Language Stats height="165">
-
-
-</div>
-
-<br>
-
----
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=naplon74&color=6EE7B7&style=flat-square&label=views)
 
 © 2026 naplon_
-
-</div>
