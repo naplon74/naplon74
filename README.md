@@ -15,10 +15,11 @@ Network & Cybersecurity student (BUT R&T, IUT d'Annecy) into **hardware**, **net
 and **Linux**. I build utilities and tools that talk directly to the
 system underneath them.
 
-- 📍 France, Savoy
-- 🛠️ Bash - Batch - PowerShell - Python - HTML - CSS - JS
-- 💻 Fedora Linux, Void Linux, Windows 11
-- 🥧 Raspberry Pi home server
+- [📍] France, [Savoy](https://en.wikipedia.org/wiki/Savoy)
+- [🎓] [USMB - R&T Department](https://www.univ-smb.fr/iut-annecy/en/formation/reseaux-informatiques-et-telecoms/) (First year)
+- [🛠️] Bash - Batch - PowerShell - Python - HTML - CSS - JS
+- [💻] Fedora Linux, Void Linux, Windows 11
+- [🥧] Raspberry Pi home server
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=naplon74&layout=compact&langs_count=6&theme=dark_github)
 
