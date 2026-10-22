@@ -1,0 +1,270 @@
+{
+ "key": "69c5ef76",
+ "stars": 5,
+ "contributions": 251,
+ "repos": 6,
+ "followers": 5,
+ "languages": [
+  [
+   "Python",
+   1660
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 13,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "gitRE",
+   "url": "https://github.com/naplon74/gitRE",
+   "text": "Simple bash/python utility to list all your repo status.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "cli",
+    "git",
+    "json",
+    "linux",
+    "python"
+   ]
+  },
+  {
+   "name": "brave-linux-debloat",
+   "url": "https://github.com/naplon74/brave-linux-debloat",
+   "text": "A simple bash script to debloat Brave browser on Linux.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "linux",
+    "automation",
+    "brave-browser",
+    "browser",
+    "debloat",
+    "privacy"
+   ]
+  },
+  {
+   "name": "CleanMe",
+   "url": "https://github.com/naplon74/CleanMe",
+   "text": "Lock your keyboard for cleaning purpose. Windows & Linux",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": [
+    "gnome",
+    "gtk4",
+    "linux",
+    "python",
+    "unix",
+    "windows"
+   ]
+  },
+  {
+   "name": "magisk-pluskey",
+   "url": "https://github.com/naplon74/magisk-pluskey",
+   "text": "Magisk module for OnePlus \"Plus key\"",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "android",
+    "magisk",
+    "magisk-module",
+    "oneplus"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "brave-linux-debloat",
+   "url": "https://github.com/naplon74/brave-linux-debloat",
+   "text": "A simple bash script to debloat Brave browser on Linux.",
+   "fork": false,
+   "stars": 2,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "linux",
+    "automation",
+    "brave-browser",
+    "browser",
+    "debloat",
+    "privacy"
+   ]
+  },
+  {
+   "name": "CleanMe",
+   "url": "https://github.com/naplon74/CleanMe",
+   "text": "Lock your keyboard for cleaning purpose. Windows & Linux",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": [
+    "gnome",
+    "gtk4",
+    "linux",
+    "python",
+    "unix",
+    "windows"
+   ]
+  },
+  {
+   "name": "naplon74",
+   "url": "https://github.com/naplon74/naplon74",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "naplon-linux-config",
+   "url": "https://github.com/naplon74/naplon-linux-config",
+   "text": "My config files for zsh and other apps.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "magisk-pluskey",
+   "url": "https://github.com/naplon74/magisk-pluskey",
+   "text": "Magisk module for OnePlus \"Plus key\"",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "android",
+    "magisk",
+    "magisk-module",
+    "oneplus"
+   ]
+  },
+  {
+   "name": "gitRE",
+   "url": "https://github.com/naplon74/gitRE",
+   "text": "Simple bash/python utility to list all your repo status.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": [
+    "bash",
+    "cli",
+    "git",
+    "json",
+    "linux",
+    "python"
+   ]
+  }
+ ]
+}
