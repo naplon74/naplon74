@@ -1,7 +1,7 @@
 {
- "key": "210070b1",
+ "key": "f087853e",
  "stars": 5,
- "contributions": 173,
+ "contributions": 174,
  "repos": 6,
  "followers": 6,
  "languages": [
@@ -87,7 +87,7 @@
   ],
   [
    {
-    "c": 7,
+    "c": 8,
     "day": 1,
     "today": true
    },
@@ -117,7 +117,9 @@
     "git",
     "json",
     "linux",
-    "python"
+    "python",
+    "copr",
+    "rpm"
    ]
   },
   {
@@ -247,7 +249,9 @@
     "git",
     "json",
     "linux",
-    "python"
+    "python",
+    "copr",
+    "rpm"
    ]
   }
  ]
