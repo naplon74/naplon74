@@ -1,5 +1,5 @@
 {
- "key": "3d201610",
+ "key": "a3ddfd54",
  "stars": 5,
  "contributions": 167,
  "repos": 6,
@@ -109,14 +109,18 @@
    {
     "c": 0,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 0,
   "longest": 6
  },
  "pins": [
