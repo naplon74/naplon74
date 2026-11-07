@@ -2,7 +2,7 @@
   "version": 1,
   "login": "naplon74",
   "seed": "#CF1111",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "I build small useful tools.\nI study Network and Telecommunication.",
+    "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
     "avatarShape": "cookie",
     "chips": [
@@ -43,12 +43,12 @@
         "label": "USMB - R&T Department"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "computer",
+        "label": "Linux & Windows"
       },
       {
-        "icon": "laptop_chromebook",
-        "label": "Fedora, Void Linux, Windows 11"
+        "icon": "network_check",
+        "label": "Aspire to be a network technician"
       }
     ]
   },
@@ -58,6 +58,10 @@
       {
         "title": "Main",
         "items": [
+          {
+            "icon": "brand:cisco",
+            "label": "Cisco IOS"
+          },
           {
             "icon": "brand:python",
             "label": "Python"
@@ -71,16 +75,8 @@
             "label": "PowerShell"
           },
           {
-            "icon": "brand:html5",
-            "label": "HTML"
-          },
-          {
-            "icon": "brand:css",
-            "label": "CSS"
-          },
-          {
-            "icon": "brand:javascript",
-            "label": "JavaScript"
+            "icon": "link",
+            "label": "Web"
           }
         ]
       },
@@ -114,20 +110,20 @@
   "projects": {
     "source": "manual",
     "repos": [
-      "CleanMe",
       "gitRE",
-      "brave-linux-debloat",
-      "magisk-pluskey"
+      "CleanMe",
+      "magisk-pluskey",
+      "brave-linux-debloat"
     ],
     "overrides": {
       "CleanMe": {
         "icon": "cleaning"
       },
-      "brave-linux-debloat": {
-        "icon": "brand:brave"
-      },
       "magisk-pluskey": {
         "icon": "brand:oneplus"
+      },
+      "brave-linux-debloat": {
+        "icon": "brand:brave"
       }
     },
     "empty": "No description yet.",
@@ -140,7 +136,7 @@
     "repos": "Public repos",
     "followers": "Followers",
     "calendar": "Last 21 days",
-    "weekdays": "MTWTFSS",
+    "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
     "showLanguages": true
   },
@@ -153,7 +149,7 @@
   "socials": {
     "items": [
       {
-        "icon": "link",
+        "icon": "language",
         "url": "https://naplon.xyz"
       },
       {
@@ -162,7 +158,7 @@
       },
       {
         "icon": "mail",
-        "url": "naplon@protonmail.com"
+        "url": "naplon@ik.me"
       }
     ],
     "variant": "chip",
@@ -183,6 +179,7 @@
         "url": "https://github.com/naplon74?tab=repositories",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
