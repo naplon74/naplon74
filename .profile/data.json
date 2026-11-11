@@ -1,10 +1,22 @@
 {
- "key": "1b64b71c",
+ "key": "bfe4ec92",
  "stars": 5,
  "contributions": 168,
- "repos": 6,
+ "repos": 7,
  "followers": 6,
  "languages": [
+  [
+   "HTML",
+   10120
+  ],
+  [
+   "CSS",
+   7047
+  ],
+  [
+   "JavaScript",
+   2622
+  ],
   [
    "Python",
    1663
@@ -223,6 +235,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "naplon-domains",
+   "url": "https://github.com/naplon74/naplon-domains",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
    "topics": []
   },
   {
